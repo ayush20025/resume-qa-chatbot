@@ -1,8 +1,8 @@
-Resume QA Chatbot – Professional Guide
-🎯 Project Overview
+# Resume QA Chatbot – Professional Guide
+# 🎯 Project Overview
 A professional Resume Question Answering Chatbot built with free, open‑source technologies. This project demonstrates Retrieval‑Augmented Generation (RAG) – a practical way to build AI systems that avoid hallucinations by always grounding answers in the resume content.
 
-Perfect for:
+# Perfect for:
 
 Interview preparation
 
@@ -10,10 +10,10 @@ Demonstrating RAG architecture
 
 Portfolio / GitHub projects
 
-Understanding modern AI systems end‑to‑end
+## Understanding modern AI systems end‑to‑end
 
 
-🚀 Quick Start
+# 🚀 Quick Start
 Prerequisites
 Python 3.8 or higher
 
@@ -144,4 +144,5 @@ High‑performance similarity search library
 Searches thousands of embeddings in milliseconds
 
 All components are completely open‑source and free.
+
 
